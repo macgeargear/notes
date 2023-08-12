@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "fecb51f2b3b625e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "380c197a31886fe8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d16e8d92fcac5c0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "fb497489913f0374",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.7"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7f0d32ef480bfd06",
+    "type": "split",
+    "children": [
+      {
+        "id": "11aa3c3c050856a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d70e3cfbd74508c5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e4a3293613f521da",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "11f0d85d8f27ebf1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "9a42b5591f1017e4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 205.5
+  },
+  "right": {
+    "id": "a5d6e5126c5584c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9a5b360f6606a36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "706eecf8021e660c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7c30b9f70a7c16a4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "a457d5655adf5d3b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "79ce00475b54386f",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "56e16b6f0591552a",
+            "type": "leaf",
+            "state": {
+              "type": "code-execute-manage-executors",
+              "state": {}
+            }
+          },
+          {
+            "id": "fea2e3a00ced6b4b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "822dc25194834e73",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 372.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "fb497489913f0374",
+  "lastOpenFiles": [
+    "ch2-login function/Boolean Algebra.md",
+    "ch2-login function",
+    "Diglo",
+    "System prog/Linux and git/Git/Git pull request flow.md",
+    "rust/Rust Programming Language.md",
+    "Coding interview/big-o/ex-12.md",
+    "Coding interview/big-o/ex-8.md",
+    "Coding interview/big-o",
+    "Coding interview",
+    "typescript/Interface.md",
+    "rust",
+    "typescript/Generic Types.md",
+    "typescript/null and undefined.md",
+    "System prog/Linux and git/Progmeth/OOP overview.md",
+    "typescript/Literal Types.md",
+    "typescript/Overview.md",
+    "typescript/Object Types.md",
+    "typescript/Type Aliases.md",
+    "typescript/Type Assertions.md",
+    "typescript",
+    "js-pattern/Singleton Pattern.md",
+    "js-pattern/Javascript pattern overview.md",
+    "Excalidraw/Drawing 2023-04-26 16.00.05.excalidraw.md",
+    "js-pattern",
+    "Excalidraw",
+    "System prog/Untitled Kanban.md",
+    "AI & ML/data science/LDA analysis.md",
+    "Untitled.canvas",
+    "AI & ML/Kanban AI.md",
+    "Day Planners/Day Planner-20230414.md",
+    "Day Planners",
+    "AI & ML/Machine Learning/Machine learning overview.md",
+    "AI & ML/Machine Learning/Linear Regression.md",
+    "AI & ML/Machine Learning/Decision Tree.md",
+    "AI & ML/Deep Learning.md",
+    "AI & ML/Deep Learning/Deep learning overview.md",
+    "AI & ML/Machine Learning"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"e72425809fb71814","x":-667,"y":-394,"width":183,"height":60,"type":"text","text":"Process memory\n"},
+		{"id":"fe64f64fc4e94977","x":-288,"y":-551,"width":250,"height":60,"type":"text","text":"text (the code)"},
+		{"id":"c644cf21d0fac1df","x":-288,"y":-394,"width":250,"height":60,"type":"text","text":"call stack (local variables)"},
+		{"id":"1b822fb31a7f74a5","x":-292,"y":-285,"width":250,"height":60,"type":"text","text":"heap (everything else)"},
+		{"id":"1c5f75b12e40d998","x":190,"y":-531,"width":250,"height":274,"color":"5","type":"text","text":"RAM"}
+	],
+	"edges":[
+		{"id":"c71a10f54a2fac6e","fromNode":"e72425809fb71814","fromSide":"right","toNode":"fe64f64fc4e94977","toSide":"left"},
+		{"id":"e17df62fb2aae033","fromNode":"e72425809fb71814","fromSide":"right","toNode":"c644cf21d0fac1df","toSide":"left"},
+		{"id":"fdf69a20d689f691","fromNode":"e72425809fb71814","fromSide":"right","toNode":"1b822fb31a7f74a5","toSide":"left"},
+		{"id":"21ab1a40d30ebca7","fromNode":"fe64f64fc4e94977","fromSide":"right","toNode":"1c5f75b12e40d998","toSide":"top"},
+		{"id":"1c14bab9982d0cfb","fromNode":"1b822fb31a7f74a5","fromSide":"right","toNode":"1c5f75b12e40d998","toSide":"bottom"},
+		{"id":"d132e6062634ac70","fromNode":"c644cf21d0fac1df","fromSide":"right","toNode":"1c5f75b12e40d998","toSide":"left"}
+	]
+}

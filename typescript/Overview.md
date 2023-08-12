@@ -1,0 +1,6 @@
+[[typescript/Interface|Interface]]
+[[Literal Types]]
+[[null and undefined]]
+[[Type Aliases]]
+[[Type Assertions]]
+[[Object Types]]

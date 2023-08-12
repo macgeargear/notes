@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"4bfbdc8ac79d247b","x":-240,"y":53,"width":250,"height":60,"type":"text","text":"UndergraduateStudent"},
+		{"id":"36b601c18d622dbf","x":-115,"y":-116,"width":250,"height":70,"type":"text","text":"Student"},
+		{"id":"3fa97f809414b720","x":38,"y":46,"width":250,"height":60,"type":"text","text":"GraduateStudent"}
+	],
+	"edges":[
+		{"id":"e5bcf21040cca02a","fromNode":"36b601c18d622dbf","fromSide":"bottom","toNode":"4bfbdc8ac79d247b","toSide":"top"},
+		{"id":"a98cecddf7d006fa","fromNode":"36b601c18d622dbf","fromSide":"bottom","toNode":"3fa97f809414b720","toSide":"top"}
+	]
+}

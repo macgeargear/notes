@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "a293a22014621f8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4038e09160fe7584",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6af078e046c4f4d1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "aa5009be4214299f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning Tracker.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cbb054d52d10aa45",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f8bfc379fa27b3ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "24aa9836e14f5d75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f611a8deb568c38",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d1e7b4004d483601",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "006cb1dbd28294bc",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "0154ea919c3e48b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "a58b466ec19dc614",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c12a5babe9b28d2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "62522091b1dfc3ca",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a285002cde4a5145",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5ef69441f9a92fc3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "publish:Publish changes": false
+    }
+  },
+  "active": "cbb054d52d10aa45",
+  "lastOpenFiles": [
+    "Learning Tracker.md",
+    "Machine learning/Linear Regression.md",
+    "Operating System/Basic of Operating System.md",
+    "Operating System/File System in Linux.md",
+    "Operating System/Device Driver.md",
+    "Operating System/pre-emptive multitasking.md",
+    "Operating System/Process memory.canvas",
+    "Git/GitHub Repository Administrator.md",
+    "Operating System/Typical Roles of OS.md",
+    "Linux/SSH key.md"
+  ]
+}
